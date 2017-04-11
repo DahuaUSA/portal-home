@@ -1,2 +1,2 @@
 # portal-home
-Soruce Files fro the Portal Home Page
+Soruce Files for the Portal Home Page
