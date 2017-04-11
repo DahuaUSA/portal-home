@@ -46,7 +46,7 @@
 		<li><a herf="#"><i class="fa fa-2x fa-globe" aria-hidden="true" style="vertical-align: sub"></i></a></li>
            
       </ul>
- 	<form class="navbar-form navbar-right" id="search">
+ 	<form class="navbar-form navbar-right hidden" id="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
@@ -79,8 +79,8 @@
 <!-- / HEADER --> 
 
 	
-<!-- Tab Section -->	
-<section style="background-color: #212121">
+<!-- Tab Section desktop -->	
+<section style="background-color: #212121" class="hidden-sm hidden-xs">
  <div role="tabpanel">
   <ul class="nav nav-tabs section-nav nav-justified" role="tablist">
     <li role="presentation" class="active"><a href="#home1" data-toggle="tab" role="tab" aria-controls="tab1">Demo Store</a></li>
@@ -143,12 +143,88 @@
     </div>
   </div>
 </div>
-
-
-	
 </section>
 
 
+<!-- tabs for mobile -->
+<section class="hidden-md hidden-lg">
+
+<div class="panel-group" id="accordion1" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">Demo Store</a></h4>
+    </div>
+    <div id="collapseOne1" class="panel-collapse collapse in">
+		<div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p>
+</div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">Rebates</a></h4>
+    </div>
+    <div id="collapseTwo1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">Product Training</a></h4>
+    </div>
+    <div id="collapseThree1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseFour1">Webinars</a></h4>
+    </div>
+    <div id="collapseFour1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseFive1">Marketing Tools</a></h4>
+    </div>
+    <div id="collapseFive1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseSix1">Project Registration</a></h4>
+    </div>
+    <div id="collapseSix1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseSeven1">Lead Generation</a></h4>
+    </div>
+    <div id="collapseSeven1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseEight1">Partner Events</a></h4>
+    </div>
+    <div id="collapseEight1" class="panel-collapse collapse">
+      <div class="panel-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p class="text-right"><a class="btn btn-lg btn-gray" href="#" role="button">Learn More</a></p></div>
+    </div>
+  </div>
+</div>
+
+</section>
 
 
 
@@ -161,18 +237,29 @@
 		<table width="100%" border="0" class="footer-table">
   			<tbody>
     			<tr>
-      			<td width="125px"><a href="#">Products</a></td>
-      			<td width="125px"><a href="#">Support</a></td>
-      			<td width="125px"><a href="#">Tools</a></td>
-      			<td width="125px"><a href="#">Sales</a></td>
-      			<td width="125px"><a href="#">Case Studies</a></td>
+      			<td width="125"><a href="#">Products</a></td>
+      			<td width="125"><a href="#">Support</a></td>
+      			<td width="125"><a href="#">Tools</a></td>
+      			<td width="125"><a href="#">Sales</a></td>
+      			<td width="125"><a href="#">Case Studies</a></td>
       			<td width="125"><a href="#">Events</a></td>
    			  </tr>
   			</tbody>
 		</table>
 
 	  </div>
-		<div class="row footer-nav"><a href="#">Newsroom</a> | <a href="#">About</a> | <a href="#">Contact</a> | Social Media Icons </div>
+		<div class="row footer-nav">
+		<table width="100%" border="0" class="footer-table">
+		<tbody>
+		<tr>
+			<td width="125"><a href="#">Newsroom</a></td>
+			<td width="125"><a href="#">About</a></td>
+			<td width="125"><a href="#">Contact</a></td>
+			<td width="125"><a herf="#"><i class="fa fa-2x fa-facebook-square" aria-hidden="true" style="vertical-align: sub"></i></a></li></td>
+			<td width="125"><li><a herf="#"><i class="fa-2x fa fa-linkedin-square" aria-hidden="true" style="vertical-align: sub"></i></a></li></td>
+			</tr>
+			</tbody></table>
+	  </div>
 	</div>    
 	<div class="col-lg-3">
 		<div class="row"><h3 style="color: #b11116">Newsletter</h3></div>
@@ -188,8 +275,8 @@
 	  
 	  
   </div>
-	</div>
-<footer class="text-center copyright">
+</div>
+<footer class="text-center copyright" style="padding-top: 5px">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
