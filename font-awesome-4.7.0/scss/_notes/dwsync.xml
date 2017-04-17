@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="font-awesome.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_animated.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_core.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_bordered-pulled.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_fixed-width.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_larger.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_icons.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_list.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_mixins.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_path.scss" server="52.8.172.154" local="131269134330000000" remote="131363434200000000" Dst="2" />
-<file name="_rotated-flipped.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_screen-reader.scss" server="52.8.172.154" local="131269134330000000" remote="131363434200000000" Dst="2" />
-<file name="_stacked.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
-<file name="_variables.scss" server="52.8.172.154" local="131269134320000000" remote="131363434200000000" Dst="2" />
+<file name="font-awesome.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_animated.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_core.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_bordered-pulled.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_fixed-width.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_larger.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_icons.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_list.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_mixins.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_path.scss" server="52.8.172.154" local="131269134330000000" remote="131367033000000000" Dst="2" />
+<file name="_rotated-flipped.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_screen-reader.scss" server="52.8.172.154" local="131269134330000000" remote="131367033000000000" Dst="2" />
+<file name="_stacked.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="_variables.scss" server="52.8.172.154" local="131269134320000000" remote="131367033000000000" Dst="2" />
+<file name="font-awesome.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_animated.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_bordered-pulled.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_core.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_fixed-width.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_larger.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_list.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_icons.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_mixins.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_path.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134330000000" remote="131369521200000000" Dst="2" />
+<file name="_rotated-flipped.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_screen-reader.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134330000000" remote="131369521200000000" Dst="2" />
+<file name="_stacked.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
+<file name="_variables.scss" server="52.8.172.154//dealer-portal/home-page/" local="131269134320000000" remote="131369521200000000" Dst="2" />
 </dwsync>

@@ -1,29 +1,68 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="140X140.gif" server="52.8.172.154" local="131262606300000000" remote="131351547600000000" Dst="2" />
-<file name="logo.png" server="52.8.172.154" local="131351276447323668" remote="131351547600000000" Dst="2" />
-<file name="hearo-image.png" server="52.8.172.154" local="131351278027861614" remote="131351547600000000" Dst="2" />
-<file name="tab-background.png" server="52.8.172.154" local="131359915678594367" remote="131360180400000000" Dst="2" />
-<file name="red-left.png" server="52.8.172.154" local="131359923825044320" remote="131360180400000000" Dst="2" />
-<file name="Rectangle_12.png" server="52.8.172.154" local="131363195355340016" remote="131363455800000000" Dst="2" />
-<file name="down_arrrow.png" server="52.8.172.154" local="131363194202580284" remote="131363455800000000" Dst="2" />
-<file name="back-with-down.png" server="52.8.172.154" local="131363221215185010" remote="131363475000000000" Dst="2" />
-<file name="crop_element.png" server="52.8.172.154" local="131363253327022775" remote="131363511000000000" Dst="2" />
-<file name="tab-background2.png" server="52.8.172.154" local="131363247820113618" remote="131363511000000000" Dst="2" />
-<file name="Asset 1.png" server="52.8.172.154" local="131354609433178602" remote="131363685000000000" Dst="2" />
-<file name="Asset 11.png" server="52.8.172.154" local="131354609433168595" remote="131363685000000000" Dst="2" />
-<file name="Asset 10.png" server="52.8.172.154" local="131354609433158581" remote="131363685000000000" Dst="2" />
-<file name="Asset 13.png" server="52.8.172.154" local="131354609433208627" remote="131363685000000000" Dst="2" />
-<file name="Asset 12.png" server="52.8.172.154" local="131354609433208627" remote="131363685000000000" Dst="2" />
-<file name="Asset 15.png" server="52.8.172.154" local="131354609433238648" remote="131363685000000000" Dst="2" />
-<file name="Asset 14.png" server="52.8.172.154" local="131354609433238648" remote="131363685000000000" Dst="2" />
-<file name="Asset 16.png" server="52.8.172.154" local="131354609433278673" remote="131363685000000000" Dst="2" />
-<file name="Asset 2.png" server="52.8.172.154" local="131354609433308694" remote="131363685000000000" Dst="2" />
-<file name="Asset 3.png" server="52.8.172.154" local="131354609433558871" remote="131363685000000000" Dst="2" />
-<file name="Asset 4.png" server="52.8.172.154" local="131354609433568875" remote="131363685000000000" Dst="2" />
-<file name="Asset 5.png" server="52.8.172.154" local="131354609433568875" remote="131363685000000000" Dst="2" />
-<file name="Asset 6.png" server="52.8.172.154" local="131354609433588892" remote="131363685000000000" Dst="2" />
-<file name="Asset 8.png" server="52.8.172.154" local="131354609433598899" remote="131363685000000000" Dst="2" />
-<file name="Asset 9.png" server="52.8.172.154" local="131354609433578882" remote="131363685000000000" Dst="2" />
-<file name="Asset 7.png" server="52.8.172.154" local="131354609433588892" remote="131363685000000000" Dst="2" />
+<file name="140X140.gif" server="52.8.172.154" local="131262606300000000" remote="131367033000000000" Dst="2" />
+<file name="logo.png" server="52.8.172.154" local="131351276440000000" remote="131367033000000000" Dst="2" />
+<file name="tab-background.png" server="52.8.172.154" local="131359915670000000" remote="131367033000000000" Dst="2" />
+<file name="red-left.png" server="52.8.172.154" local="131359923820000000" remote="131367033000000000" Dst="2" />
+<file name="Rectangle_12.png" server="52.8.172.154" local="131363195350000000" remote="131367033000000000" Dst="2" />
+<file name="down_arrrow.png" server="52.8.172.154" local="131363194200000000" remote="131367033000000000" Dst="2" />
+<file name="back-with-down.png" server="52.8.172.154" local="131363221210000000" remote="131367033000000000" Dst="2" />
+<file name="crop_element.png" server="52.8.172.154" local="131363253320000000" remote="131367033000000000" Dst="2" />
+<file name="tab-background2.png" server="52.8.172.154" local="131363247820000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 1.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 11.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 10.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 13.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 12.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 15.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 14.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 16.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 2.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 3.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 4.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 5.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 6.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 8.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 9.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="Asset 7.png" server="52.8.172.154" local="131354609430000000" remote="131367033000000000" Dst="2" />
+<file name="hero-image.jpg" server="52.8.172.154" local="131364237060000000" remote="131367033000000000" Dst="2" />
+<file name="hero-image_2.jpg" server="52.8.172.154" local="131366680685696587" remote="131367033000000000" Dst="2" />
+<file name="shutterstock_253625140_V2.tif" server="52.8.172.154" local="131311595920000000" remote="131367034800000000" Dst="2" />
+<file name="140X140.gif" server="52.8.172.154//dealer-portal/home-page/" local="131262606300000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 1.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 10.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 11.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 12.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 13.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 14.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 15.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 16.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 2.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 3.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 4.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 5.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 6.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 7.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 8.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="Asset 9.png" server="52.8.172.154//dealer-portal/home-page/" local="131354609430000000" remote="131369521200000000" Dst="2" />
+<file name="back-with-down.png" server="52.8.172.154//dealer-portal/home-page/" local="131363221210000000" remote="131369521200000000" Dst="2" />
+<file name="crop_element.png" server="52.8.172.154//dealer-portal/home-page/" local="131363253320000000" remote="131369521200000000" Dst="2" />
+<file name="down_arrrow.png" server="52.8.172.154//dealer-portal/home-page/" local="131363194200000000" remote="131369521200000000" Dst="2" />
+<file name="logo.png" server="52.8.172.154//dealer-portal/home-page/" local="131351276440000000" remote="131369521200000000" Dst="2" />
+<file name="hero-image.jpg" server="52.8.172.154//dealer-portal/home-page/" local="131364237060000000" remote="131369521200000000" Dst="2" />
+<file name="Rectangle_12.png" server="52.8.172.154//dealer-portal/home-page/" local="131363195350000000" remote="131369521200000000" Dst="2" />
+<file name="red-left.png" server="52.8.172.154//dealer-portal/home-page/" local="131359923820000000" remote="131369521200000000" Dst="2" />
+<file name="tab-background.png" server="52.8.172.154//dealer-portal/home-page/" local="131359915670000000" remote="131369521200000000" Dst="2" />
+<file name="hero-image_2.jpg" server="52.8.172.154//dealer-portal/home-page/" local="131366680685696587" remote="131369521200000000" Dst="2" />
+<file name="tab-background2.png" server="52.8.172.154//dealer-portal/home-page/" local="131363247820000000" remote="131369521200000000" Dst="2" />
+<file name="shutterstock_253625140_V2.tif" server="52.8.172.154//dealer-portal/home-page/" local="131311595920000000" remote="131369529000000000" Dst="2" />
+<file name="care@3x.png" server="52.8.172.154//dealer-portal/home-page/" local="131366826742876268" remote="131369521200000000" Dst="2" />
+<file name="credit@3x.psd" server="52.8.172.154//dealer-portal/home-page/" local="131366828988138256" remote="131369521200000000" Dst="2" />
+<file name="credit@3x.png" server="52.8.172.154//dealer-portal/home-page/" local="131366826750179611" remote="131369521200000000" Dst="2" />
+<file name="stars@3x.png" server="52.8.172.154//dealer-portal/home-page/" local="131366826723595934" remote="131369521200000000" Dst="2" />
+<file name="summit@3x.png" server="52.8.172.154//dealer-portal/home-page/" local="131366833516230598" remote="131369521200000000" Dst="2" />
+<file name="tech support@3x.png" server="52.8.172.154//dealer-portal/home-page/" local="131366833768395608" remote="131369521200000000" Dst="2" />
+<file name="warranty@3x.png" server="52.8.172.154//dealer-portal/home-page/" local="131366833972272274" remote="131369521200000000" Dst="2" />
+<file name="hearo-image.png" server="52.8.172.154//dealer-portal/home-page/" local="131351547600000000" remote="131369521200000000" Dst="2" />
+<file name="nav-hover-back.png" server="52.8.172.154//dealer-portal/home-page/" local="131360180400000000" remote="131369521200000000" Dst="2" />
 </dwsync>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="bootstrap.css" server="52.8.172.154" local="131364220987448643" remote="131364472800000000" Dst="2" />
-<file name="dealer-styles.css" server="52.8.172.154" local="131364224868544474" remote="131364477000000000" Dst="2" />
+<file name="bootstrap.css" server="52.8.172.154" local="131364220980000000" remote="131367033000000000" Dst="2" />
+<file name="dealer-styles.css" server="52.8.172.154" local="131366796891240351" remote="131367048600000000" Dst="2" />
+<file name="dealer_bootstrap.css" server="52.8.172.154" local="131366781507182163" remote="131367033000000000" Dst="2" />
+<file name="dealer-styles_R1.css" server="52.8.172.154" local="131364241250000000" remote="131367048600000000" Dst="2" />
+<file name="dealer_bootstrap_R1.css" server="52.8.172.154" local="131365884320000000" remote="131367048600000000" Dst="2" />
+<file name="dealer-styles.css" server="52.8.172.154//dealer-portal/home-page/" local="131369412578074656" remote="131369665200000000" Dst="2" />
+<file name="dealer-styles_R1.css" server="52.8.172.154//dealer-portal/home-page/" local="131364241250000000" remote="131369521200000000" Dst="2" />
+<file name="bootstrap.css" server="52.8.172.154//dealer-portal/home-page/" local="131364220980000000" remote="131369521200000000" Dst="2" />
+<file name="dealer_bootstrap.css" server="52.8.172.154//dealer-portal/home-page/" local="131369412888007958" remote="131369665200000000" Dst="2" />
+<file name="dealer_bootstrap_R1.css" server="52.8.172.154//dealer-portal/home-page/" local="131365884320000000" remote="131369521200000000" Dst="2" />
+<file name="register-form.css" server="52.8.172.154//dealer-portal/home-page/" local="131369403825437918" remote="131369658000000000" Dst="2" />
 </dwsync>

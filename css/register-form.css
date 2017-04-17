@@ -1,0 +1,117 @@
+@charset "utf-8";
+
+p{
+	font-family: 'Merriweather', serif;
+}
+.nav-tabs {
+    margin-bottom: 15px;
+}
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
+div#OR {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #B11116;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    font-size: 12px;
+    float: center;
+    position: relative;
+    right: -16px;
+    top: 40%;
+    z-index: 1;
+    background: #f5f5f5;
+}
+.top-button{
+	margin-top: 7px;
+	margin-left: 15px;
+}
+.nav-button{
+	background-color: #b11116;
+	height: 75px;
+	padding:15px 0px;
+}
+.login-button{
+	display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #f5f5f5;
+	line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+	
+}
+.btn-login:active:hover,
+.btn-login.active:hover,
+.open > .dropdown-toggle.btn-login:hover,
+.btn-login:active:focus,
+.btn-login.active:focus,
+.open > .dropdown-toggle.btn-login:focus,
+.btn-login:active.focus,
+.btn-login.active.focus,
+.open > .dropdown-toggle.btn-login.focus {
+  color: #f5f5f5 !important;
+}
+.btn-login:active,
+.btn-login.active,
+.open > .dropdown-toggle.btn-login {
+  background-image: none;
+	background-color: #093c6c;
+	color: #1489f8;
+}
+.btn-login.disabled:hover,
+.btn-login[disabled]:hover,
+fieldset[disabled] .btn-login:hover,
+.btn-login.disabled:focus,
+.btn-login[disabled]:focus,
+fieldset[disabled] .btn-login:focus,
+.btn-login.disabled.focus,
+.btn-login[disabled].focus,
+fieldset[disabled] .btn-login.focus {
+  background-color: transparent !important;
+  /*border-color: #2e6da4; */
+}
+.btn-login .badge {
+  color: #337ab7;
+  background-color: #fff;
+}
+
+
+@media (max-width: 992px) {
+.nav-button{
+	background-color: #b11116;
+	padding:15px 0px !important;
+	text-align: center;
+}
+}
+
+@media (max-width: 767px) {
+.top-button{
+	margin-top: 7px;
+	margin-left: 15px;
+	margin-bottom: 15px
+}
+.nav-button{
+	background-color: #b11116;
+	padding:15px 15px !important;
+	text-align: right;
+}
+}
